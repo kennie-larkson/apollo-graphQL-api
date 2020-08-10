@@ -1,0 +1,9 @@
+# apollo-graphQL-API
+
+This application runs on ApolloServer and a GraphQL API
+
+HOW TO USE
+1. Clone this repository to your local machine
+2. CD into the root directory of the cloned files and run "npm init" to install dependencies
+3. CD into the src folder and run "node index" to start your server
+4. Visit https://localhost:4000 on your browser to send your queries on the GraphQL playground
